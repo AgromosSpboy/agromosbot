@@ -11,7 +11,7 @@ let username = conn.getName(who)
 let vn = './media/descargas-bot.mp3'
 let menu =`
 ╭━〘 💚⚡️💚⚡️💚⚡️💚⚡️💚 〙━╮
- ‖    ⚡ _*AGROMOS BOT SP_* ⚡
+ ‖    ⚡ _*Sapito Bot_* ⚡
  ‖ 💚*¡𝗛ola! ${username}* 💚
  ‖
  ‖ Ⓜ️ *_MENÚ DESCARGAS_* Ⓜ️
@@ -41,8 +41,8 @@ let menu =`
 ┣ ➱🔹️ _${usedPrefix}spotify *autor, cancion*_
 ┣ ➱🔸️ _${usedPrefix}acortar *link*_
 ┣ ➱🔹️ _${usedPrefix}pinterest *texto*_
-┣ ➱🔸️ _${usedPrefix}xnxx *link de xnxx*_
-┣ ➱🔹️ _${usedPrefix}xnxxsearch *texto*_
+┣ ➱
+┣ ➱
 ┣ ➱🔸️ _${usedPrefix}ssweb *link*_
 ┣ ➱🔹️ _${usedPrefix}igstory *username*_
 ┣ ➱🔸️ _${usedPrefix}igstalk *username*_
@@ -51,7 +51,7 @@ let menu =`
 ┗━━━━━━━━━━━━━┛
 ━〘 💚⚡💚⚡💚⚡💚⚡💚 〙━`.trim()
 let mentionedJid = [who]
-conn.send3ButtonImg(m.chat, pp, menu, '𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃-𝐵𝑂𝑇', '💚HOLA💚', `Hola`, 'NO DIGAS MAMADAS MERIYEIN', `No digas mamadas`, '𝙶𝚁𝚄𝙿𝙾 𝙾𝙵𝙸𝙲𝙸𝙰𝙻', `#grupos`, m, false, { contextInfo: { mentionedJid }})   
+conn.send3ButtonImg(m.chat, pp, menu, 'Sapito Bot©', '💚HOLA💚', `Hola`, 'NO DIGAS MAMADAS MERIYEIN', `No digas mamadas`, '𝙶𝚁𝚄𝙿𝙾 𝙾𝙵𝙸𝙲𝙸𝙰𝙻', `#grupos`, m, false, { contextInfo: { mentionedJid }})   
 await await await await await await conn.sendFile(m.chat, vn, 'descargas-bot.mp3', null, m, true, {
 type: 'audioMessage', 
 ptt: true 
