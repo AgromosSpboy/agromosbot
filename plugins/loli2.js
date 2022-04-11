@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => {
 	let url = anime[Math.floor(Math.random() * anime.length)]
 	await conn.sendMessage(m.chat, {
 		contentText: '*Llamen ala policía🚨*',
-		footerText: 'agromos sp - Bot',
+		footerText: 'Sapito Bot©',
 		buttons: [
 			{ buttonId: '.loli2', buttonText: { displayText: 'SIGUIENTE' }, type: 1 }
 		],
