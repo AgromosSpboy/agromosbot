@@ -12,7 +12,7 @@ let { name, limit, exp, banned, lastclaim, registered, regTime, age, level } = g
 let { min, xp, max } = levelling.xpRange(level, global.multiplier)
 let username = conn.getName(who)
 let str = `
-*_💚 Hola ${username} 💚_*
+*_💚 Holis ${username} 💚_*
 
 *<MENU DE AUDIOS/>*
 - Escribe las palabras/frases tal como estan, no hace falta poner ningun prefijo (#, ., *, etc) 
@@ -56,8 +56,7 @@ let str = `
 ° ➬🔊  _a_
 ° ➬🔊  _ara ara_
 ° ➬🔊  _te quiero bot_
-
-❗LOS  SIGUIENTE  COMANDOS SON NUEVOS REPORTAR POR SI ALGUNO NO SIRVE EN #report
+° ➬🔊 _Soy faraon love shady
 ° ➬🔊  _Bien pesando woody_
 ° ➬🔊  _Fino señores_
 ° ➬🔊  _Entrada épica_
