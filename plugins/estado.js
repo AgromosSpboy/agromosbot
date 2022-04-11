@@ -6,6 +6,6 @@ conn.send3Button(m.chat, `
 
 *😈 Actualmente estoy activo.                                                 
 que esperas para usarme a tu antojo.😈
-`.trim(), 'AGROMOS SP - Bot', '🔵 MENÚ 🔵', `${usedPrefix}menu`, '🔴 MENÚ NUEVO🔴', `${usedPrefix}menunuevo`, '🟡 MENÚ AUDIOS 🟡', `${usedPrefix}menuaudios`, m, false, { contextInfo: { mentionedJid }})}
+`.trim(), 'Sapito Bot©', '🔵 MENÚ 🔵', `${usedPrefix}menu`, '🔴 MENÚ NUEVO🔴', `${usedPrefix}menunuevo`, '🟡 MENÚ AUDIOS 🟡', `${usedPrefix}menuaudios`, m, false, { contextInfo: { mentionedJid }})}
 handler.command = /^(estado|status|estate|state|stado|stats)$/i
 module.exports = handler
