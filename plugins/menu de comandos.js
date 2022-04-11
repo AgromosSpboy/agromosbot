@@ -60,7 +60,7 @@ let menu =`
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *COVERSAR CON EL BOT AGROMOS SP*
-║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋  
 *también puedes con (bot|alexa|siri|ect)
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣ ➬⛔ _${usedPrefix}simi_
