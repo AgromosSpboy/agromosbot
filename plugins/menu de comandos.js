@@ -330,8 +330,6 @@ Sapitoo
 ┣ ➱🎨 _${usedPrefix}romanticdouble *texto*_
 ┣ ➱🎨 _${usedPrefix}romanticmessages *texto*_
   El que lee esto es gay 
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
 ┃ *PROPIETARO DEL BOT*
 ┃  *Dato solo el creador los puede usar o bots oficales*
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
