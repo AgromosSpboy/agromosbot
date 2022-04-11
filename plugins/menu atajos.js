@@ -49,7 +49,9 @@ let menu =`
 let mentionedJid = [who]
 conn.send3ButtonImg(m.chat, pp, menu, 'Sapito Bot', '𝙼𝙴𝙽𝚄 CREADOR', `#menucreador`, '𝙼ENU GRUPOS', `#menugrupos`, 'MENU DESCARGAS', `#menudescargas`, m, false, { contextInfo: { mentionedJid }})   
 await await await await await await conn.sendFile(m.chat, vn, 'atajos-bot.mp3', null, m, true, {
-type: 'audioMessage', 
+type: '
+
+, 
 ptt: true 
 })
 }
