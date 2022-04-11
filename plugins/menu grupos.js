@@ -11,7 +11,7 @@ let username = conn.getName(who)
 let vn = './media/menu-bienvenidos.mp3'
 let menu =`
 ╭━〘 💚⚡️💚⚡️💚⚡️💚⚡️💚 〙━╮
- ‖    ⚡ _*AGROMOS BOT SP_* ⚡
+ ‖    ⚡ _*Sapito Bot_* ⚡
  ‖ 💚*¡𝗛ola! ${username}* 💚
  ‖
  ‖ Ⓜ️ *_MENÚ GRUPOS_* Ⓜ️
