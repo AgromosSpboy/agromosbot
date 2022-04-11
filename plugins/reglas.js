@@ -5,10 +5,10 @@ let info = `
 ➽❌ 𝐏𝐫𝐨𝐡𝐢𝐛𝐢𝐝𝐨 𝐒𝐩𝐚𝐦 𝐚𝐥 𝐁𝐨𝐭
 ➽❌ 𝐍𝐨 𝐚𝐠𝐫𝐞𝐠𝐚𝐫 𝐚𝐥 𝐁𝐨𝐭
 ➽❌ 𝐑𝐞𝐬𝐩𝐞𝐭𝐚 𝐥𝐨𝐬 𝐭𝐞𝐫𝐦𝐢𝐧𝐨𝐬 𝐲 𝐜𝐨𝐧𝐝𝐢𝐜𝐢𝐨𝐧𝐞𝐬
-*╰═┅AGROMOS SP*
+*╰═┅Sapito Bot©*
 `.trim() 
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '💚Agromos sp', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '💚Sapito Bot©', 'status@broadcast')
 }
 handler.command = /^(reglas|normas)$/i
 
