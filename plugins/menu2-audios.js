@@ -96,7 +96,7 @@ let str = `
 ° ➬🔊 _Mi compa el manco_
 ° ➬🔊 _Ya basta jovenes_
 ° ➬🔊 _Deja de llorar maldita puta_
-*_「 💚A̶G̶R̶O̶M̶O̶S̶ S̶P̶-̶B̶O̶T̶💚  」_*`.trim()
+*_「 💚Sapito Bot©💚  」_*`.trim()
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
 }}
