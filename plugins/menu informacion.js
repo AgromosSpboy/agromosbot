@@ -11,7 +11,7 @@ let username = conn.getName(who)
 let vn = './media/menu-informacion.mp3'
 let menu =`
 ╭━〘 💚⚡️💚⚡️💚⚡️💚⚡️💚 〙━╮
- ‖    ⚡ _*AGROMOS BOT SP_* ⚡
+ ‖    ⚡ _*Sapito Bot_* ⚡
  ‖ 💚*¡𝗛ola! ${username}* 💚
  ‖
  ‖ Ⓜ️ *_MENÚ INFORMACION_* Ⓜ️
@@ -53,7 +53,7 @@ let menu =`
 ┗━━━━━━━━━━━━━┛
 ━〘 💚⚡💚⚡💚⚡💚⚡💚 〙━`.trim()
 let mentionedJid = [who]
-conn.send3ButtonImg(m.chat, pp, menu, '𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃-𝐵𝑂𝑇', 'MENU CREADOR', `#menucreador`, '𝙼𝙴𝙽𝚄 𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝚂 ', `#menudescargas`, 'La BIBLIA', `#labiblia`, m, false, { contextInfo: { mentionedJid }})   
+conn.send3ButtonImg(m.chat, pp, menu, 'Sapito Bot©', 'MENU CREADOR', `#menucreador`, '𝙼𝙴𝙽𝚄 𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝚂 ', `#menudescargas`, 'La BIBLIA', `#labiblia`, m, false, { contextInfo: { mentionedJid }})   
 await await await await await await conn.sendFile(m.chat, vn, 'menu-informacion.mp3', null, m, true, {
 type: 'audioMessage', 
 ptt: true 
