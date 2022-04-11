@@ -191,7 +191,6 @@ let str = `
 ┣ ඬ⃟👾 _${usedPrefix}readqr_
 ┣ ඬ⃟👾 _${usedPrefix}anime_
 ┣ ඬ⃟👾 _${usedPrefix}subirestado_
-┣ ඬ⃟🔞 _${usedPrefix}labiblia_
 ┣ ඬ⃟🎤 _${usedPrefix}bass_
 ┣ ඬ⃟🎤 _${usedPrefix}deep_
 ┣ ඬ⃟🎤 _${usedPrefix}earrape_
